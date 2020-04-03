@@ -6,6 +6,8 @@
 // - package_esp8266com_index.json found at http://arduino.esp8266.com/stable/package_esp8266com_index.json
 // Find All "Great Projects" Videos : https://www.youtube.com/channel/UCCC8DuqicBtP3A_aC53HYDQ/videos
 
+// LED Panel fro ebay - https://www.ebay.co.uk/itm/LED-Matrix-P3-RGB-pixel-panel-64x32-LED-sign-screen-module/274052902903
+
 #include "DHT.h"
 #define DHTPIN 0     //GPIO-0 D3 pin of nodemcu
 #define DHTTYPE DHT22   // DHT 11
