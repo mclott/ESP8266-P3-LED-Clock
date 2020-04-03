@@ -46,9 +46,9 @@ unsigned int NewRTCm = 60;
 unsigned int NewRTCs = 10;
 char szTime[4];    // 00
 char szMesg[10] = "";
-  static bool Mode = true; 
-const char* ssid     = "Lotelle";     // SSID of local network
-const char* password = "lotelle241ap";   // Password on network
+static bool Mode = true; 
+const char* ssid     = "SSID";     // SSID of local network
+const char* password = "PASSWORD";   // Password on network
 
 // This defines the 'on' time of the display is us. The larger this number,
 // the brighter the display. If too large the ESP will crash
